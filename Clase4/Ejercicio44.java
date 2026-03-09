@@ -1,7 +1,6 @@
 package Clase4;
 
 import java.util.Scanner;
-import java.util.*;
 
 
 public class Ejercicio44 {
@@ -18,7 +17,7 @@ public class Ejercicio44 {
            System.out.println("La raiz cuadrada de " + numero1 + " es: " + resultado);
   
         
-    
+     sc.close();
     }
 
 }
